@@ -1,0 +1,51 @@
+baseurl = "/"
+DefaultContentLanguage = "en"
+
+title = "sijia luo"
+theme ="beautifulhugo"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+publishDir ="docs"
+languageCode = "en-us"
+#googleAnalytics = "XXX"
+[Params]
+  description="Sijia Luo's personal website "
+  copyright = "&copy;2018 Sijia Luo"
+  logo = "img/icon.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  sidebarAbout = [
+    "I am a creative illustrator and animator with more than 10 years of experience.",
+    "Originally from China, currently based in Los Angeles."
+    ]
+  commit = false
+  rss = false
+  comments = false
+
+
+[Author]
+  name = "Sijia Luo"
+  email = " mojosplus@gmail.com"
+  instagram = "mojosplus"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+weight = 5
+[[menu.main]]
+    name = "Sketches"
+    url = "sketches/sketch1"
+    weight = 3
+
+[[menu.main]]
+    name = "Comics"
+    url = "comics/comics1"
+    weight = 4 
+
+[blackfriday]
+   plainIDAnchors = true
+hrefTargetBlank = true
