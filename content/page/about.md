@@ -53,22 +53,10 @@ Interview|Beijing TV Channel| 10:22 mins | China | Sep 2 6pm 2006|
 
 __Published Comics:__
 
-Comics|Publisher|Country|title: " "
-subtitle: "Sijia Luo"
-comments: false
-
-draft : false
+Comics|Publisher|Country|
 -----|-------|------|
-My Friend's Mom|Cartoon Ktitle: " "
-subtitle: "Sijia Luo"
-comments: false
-
-draft : false| China|
-The Hat|Cartoon King|Chintitle: " "
-subtitle: "Sijia Luo"
-comments: false
-
-draft : false
+My Friend's Mom|Cartoon King| China|
+The Hat|Cartoon King|China|
 I Am Like a Queen| Youth Comics|China|
 The Perfume| Youth Comics|China|
 The Wolf and the Sheep |Beijing Comics|China
@@ -79,4 +67,3 @@ Award|Festival|Country|
 -----|-------|------|
 Japanese Ambassador Award| China BFA Comics Festival|China|
 Best Medium-Length Comics| 5th China National Comics Festival|China|
-
