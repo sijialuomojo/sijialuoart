@@ -1,7 +1,8 @@
-+++
-title="sketch"
-weight= 3
-draft=false
-+++
+---
+
+weight: 3
+comments: false
+draft: false
+---
 {{< gallery dir="/img/sketch/" />}} 
 

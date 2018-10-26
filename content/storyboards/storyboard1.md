@@ -1,8 +1,7 @@
 ---
-
 weight: 3
 comments: false
 draft: false
 ---
-{{< gallery dir="/img/comics/" />}} 
 
+{{< vimeo 297245713 >}}

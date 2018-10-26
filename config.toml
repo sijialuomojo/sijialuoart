@@ -1,7 +1,8 @@
-baseurl = "/"
+baseurl = ""
 DefaultContentLanguage = "en"
 
 title = "sijia luo"
+
 theme ="beautifulhugo"
 pygmentsUseClasses = true
 pygmentCodeFences = true
@@ -10,6 +11,7 @@ languageCode = "en-us"
 #googleAnalytics = "XXX"
 [Params]
   description="Sijia Luo's personal website "
+  jobtitle ="storyboard artist"
   copyright = "&copy;2018 Sijia Luo"
   logo = "img/icon.jpg"
   favicon = "img/favicon.ico"
@@ -30,21 +32,26 @@ languageCode = "en-us"
 
 [[menu.main]]
     name = "Home"
-    url = ""
+    url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
-weight = 5
-[[menu.main]]
-    name = "Sketches"
-    url = "sketches/sketch1"
-    weight = 3
+    name = "Storyboards"
+    url = "storyboards/storyboard1"
+    weight = 2
 
 [[menu.main]]
     name = "Comics"
     url = "comics/comics1"
-    weight = 4 
+    weight = 3 
+
+[[menu.main]]
+    name = "Sketches"
+    url = "sketches/sketch1"
+    weight = 4
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 5
 
 [blackfriday]
    plainIDAnchors = true
